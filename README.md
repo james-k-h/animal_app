@@ -1,2 +1,2 @@
 # animal_app
- basic frontend poc
+ basic frontend poc for native platforms
